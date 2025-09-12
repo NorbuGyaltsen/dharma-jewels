@@ -1,8 +1,8 @@
 {
   "vaultName": "Dharma Jewels",
-  "lastExport": 1757635467094,
+  "lastExport": 1757635781478,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager theme-dark no-decor-link show-ribbon",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-ribbon no-decor-link",
   "useCustomHeadContent": true,
   "useCustomFavicon": true,
   "files": [
@@ -564,6 +564,7 @@
     "Tibetan language course/reading Tibetan/Tibetan Alphabet.jpg",
     "Tibetan language course/Reading Tibetan.md",
     "Tibetan language course/Tibetan Grammar.md",
+    "Tibetan language course/Tibetan Language Course.md",
     "Tibetan language course/Tibetan Vocabulary.md",
     "landing page.md",
     "lib/fonts/94f2f163d4b698242fef.otf",
@@ -665,3643 +666,3649 @@
   ],
   "fileInfo": {
     "JOL/Level 1/1.1/1.1 recognizing awareness conclusion.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1045,
       "exportedPath": "jol/level-1/1.1/1.1-recognizing-awareness-conclusion.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1 recognizing awareness.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1025,
       "exportedPath": "jol/level-1/1.1/1.1-recognizing-awareness.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1 recognizing awareness welcome.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5313,
       "exportedPath": "jol/level-1/1.1/1.1-recognizing-awareness-welcome.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.1 finding happiness within application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1690,
       "exportedPath": "jol/level-1/1.1/1.1.1-finding-happiness-within-application.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.1 finding happiness within.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 669,
       "exportedPath": "jol/level-1/1.1/1.1.1-finding-happiness-within.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.1 finding happiness within introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1015,
       "exportedPath": "jol/level-1/1.1/1.1.1-finding-happiness-within-introduction.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.1 finding happiness within meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 11011,
       "exportedPath": "jol/level-1/1.1/1.1.1-finding-happiness-within-meditation.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.1 finding happiness within summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1194,
       "exportedPath": "jol/level-1/1.1/1.1.1-finding-happiness-within-summary.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.1 finding happiness within view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 10856,
       "exportedPath": "jol/level-1/1.1/1.1.1-finding-happiness-within-view.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.2 inner balance application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1533,
       "exportedPath": "jol/level-1/1.1/1.1.2-inner-balance-application.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.2 inner balance.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 570,
       "exportedPath": "jol/level-1/1.1/1.1.2-inner-balance.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.2 inner balance introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 664,
       "exportedPath": "jol/level-1/1.1/1.1.2-inner-balance-introduction.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.2 inner balance meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6053,
       "exportedPath": "jol/level-1/1.1/1.1.2-inner-balance-meditation.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.2 inner balance summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1108,
       "exportedPath": "jol/level-1/1.1/1.1.2-inner-balance-summary.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.2 inner balance view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5021,
       "exportedPath": "jol/level-1/1.1/1.1.2-inner-balance-view.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.3 anywhere anytime.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 601,
       "exportedPath": "jol/level-1/1.1/1.1.3-anywhere-anytime.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.3 anywhere anytime application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1102,
       "exportedPath": "jol/level-1/1.1/1.1.3-anywhere-anytime-application.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.3 anywhere anytime introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 836,
       "exportedPath": "jol/level-1/1.1/1.1.3-anywhere-anytime-introduction.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.3 anywhere anytime meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4561,
       "exportedPath": "jol/level-1/1.1/1.1.3-anywhere-anytime-meditation.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.3 anywhere anytime summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1097,
       "exportedPath": "jol/level-1/1.1/1.1.3-anywhere-anytime-summary.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.3 anywhere anytime view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4529,
       "exportedPath": "jol/level-1/1.1/1.1.3-anywhere-anytime-view.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.4 the waterfall of thoughts application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1804,
       "exportedPath": "jol/level-1/1.1/1.1.4-the-waterfall-of-thoughts-application.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.4 the waterfall of thoughts introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 708,
       "exportedPath": "jol/level-1/1.1/1.1.4-the-waterfall-of-thoughts-introduction.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.4 the waterfall of thoughts meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4225,
       "exportedPath": "jol/level-1/1.1/1.1.4-the-waterfall-of-thoughts-meditation.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.4 the waterfall of thoughts summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1134,
       "exportedPath": "jol/level-1/1.1/1.1.4-the-waterfall-of-thoughts-summary.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.4 the waterfall of thoughts.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 678,
       "exportedPath": "jol/level-1/1.1/1.1.4-the-waterfall-of-thoughts.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.4 the waterfall of thoughts view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5558,
       "exportedPath": "jol/level-1/1.1/1.1.4-the-waterfall-of-thoughts-view.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.5 it's all about awareness application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1236,
       "exportedPath": "jol/level-1/1.1/1.1.5-it's-all-about-awareness-application.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.5 it's all about awareness introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 554,
       "exportedPath": "jol/level-1/1.1/1.1.5-it's-all-about-awareness-introduction.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.5 it's all about awareness.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 669,
       "exportedPath": "jol/level-1/1.1/1.1.5-it's-all-about-awareness.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.5 it's all about awareness meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7471,
       "exportedPath": "jol/level-1/1.1/1.1.5-it's-all-about-awareness-meditation.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.5 it's all about awareness summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1081,
       "exportedPath": "jol/level-1/1.1/1.1.5-it's-all-about-awareness-summary.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.5 it's all about awareness view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 9398,
       "exportedPath": "jol/level-1/1.1/1.1.5-it's-all-about-awareness-view.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.6 non-meditation non-distraction application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1709,
       "exportedPath": "jol/level-1/1.1/1.1.6-non-meditation-non-distraction-application.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.6 non-meditation non-distraction introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 631,
       "exportedPath": "jol/level-1/1.1/1.1.6-non-meditation-non-distraction-introduction.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.6 non-meditation non-distraction meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6232,
       "exportedPath": "jol/level-1/1.1/1.1.6-non-meditation-non-distraction-meditation.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.6 non-meditation non-distraction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 727,
       "exportedPath": "jol/level-1/1.1/1.1.6-non-meditation-non-distraction.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.6 non-meditation non-distraction summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 970,
       "exportedPath": "jol/level-1/1.1/1.1.6-non-meditation-non-distraction-summary.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.6 non-meditation non-distraction view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5114,
       "exportedPath": "jol/level-1/1.1/1.1.6-non-meditation-non-distraction-view.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.7 short times many times application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1975,
       "exportedPath": "jol/level-1/1.1/1.1.7-short-times-many-times-application.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.7 short times many times introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4327,
       "exportedPath": "jol/level-1/1.1/1.1.7-short-times-many-times-introduction.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.7 short times many times meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 14726,
       "exportedPath": "jol/level-1/1.1/1.1.7-short-times-many-times-meditation.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.7 short times many times.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 655,
       "exportedPath": "jol/level-1/1.1/1.1.7-short-times-many-times.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.7 short times many times summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1241,
       "exportedPath": "jol/level-1/1.1/1.1.7-short-times-many-times-summary.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.7 short times many times view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5128,
       "exportedPath": "jol/level-1/1.1/1.1.7-short-times-many-times-view.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.8 from doing to being application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1273,
       "exportedPath": "jol/level-1/1.1/1.1.8-from-doing-to-being-application.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.8 from doing to being.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 624,
       "exportedPath": "jol/level-1/1.1/1.1.8-from-doing-to-being.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.8 from doing to being introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 697,
       "exportedPath": "jol/level-1/1.1/1.1.8-from-doing-to-being-introduction.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.8 from doing to being meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5050,
       "exportedPath": "jol/level-1/1.1/1.1.8-from-doing-to-being-meditation.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.8 from doing to being summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1252,
       "exportedPath": "jol/level-1/1.1/1.1.8-from-doing-to-being-summary.html",
       "dependencies": []
     },
     "JOL/Level 1/1.1/1.1.8 from doing to being view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6592,
       "exportedPath": "jol/level-1/1.1/1.1.8-from-doing-to-being-view.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2 everything is meditation conclusion.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1089,
       "exportedPath": "jol/level-1/1.2/1.2-everything-is-meditation-conclusion.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2 everything is meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1075,
       "exportedPath": "jol/level-1/1.2/1.2-everything-is-meditation.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2 everything is meditation welcome.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5636,
       "exportedPath": "jol/level-1/1.2/1.2-everything-is-meditation-welcome.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.1 meditating with visual objects application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1979,
       "exportedPath": "jol/level-1/1.2/1.2.1-meditating-with-visual-objects-application.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.1 meditating with visual objects introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 879,
       "exportedPath": "jol/level-1/1.2/1.2.1-meditating-with-visual-objects-introduction.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.1 meditating with visual objects.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 723,
       "exportedPath": "jol/level-1/1.2/1.2.1-meditating-with-visual-objects.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.1 meditating with visual objects meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6550,
       "exportedPath": "jol/level-1/1.2/1.2.1-meditating-with-visual-objects-meditation.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.1 meditating with visual objects summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1074,
       "exportedPath": "jol/level-1/1.2/1.2.1-meditating-with-visual-objects-summary.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.1 meditating with visual objects view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6256,
       "exportedPath": "jol/level-1/1.2/1.2.1-meditating-with-visual-objects-view.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.2 making everything meaningful application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1411,
       "exportedPath": "jol/level-1/1.2/1.2.2-making-everything-meaningful-application.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.2 making everything meaningful introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 781,
       "exportedPath": "jol/level-1/1.2/1.2.2-making-everything-meaningful-introduction.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.2 making everything meaningful.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 705,
       "exportedPath": "jol/level-1/1.2/1.2.2-making-everything-meaningful.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.2 making everything meaningful meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 8087,
       "exportedPath": "jol/level-1/1.2/1.2.2-making-everything-meaningful-meditation.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.2 making everything meaningful summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1063,
       "exportedPath": "jol/level-1/1.2/1.2.2-making-everything-meaningful-summary.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.2 making everything meaningful view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3977,
       "exportedPath": "jol/level-1/1.2/1.2.2-making-everything-meaningful-view.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.3 making meditation a habit application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5916,
       "exportedPath": "jol/level-1/1.2/1.2.3-making-meditation-a-habit-application.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.3 making meditation a habit introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 883,
       "exportedPath": "jol/level-1/1.2/1.2.3-making-meditation-a-habit-introduction.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.3 making meditation a habit.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 678,
       "exportedPath": "jol/level-1/1.2/1.2.3-making-meditation-a-habit.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.3 making meditation a habit meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2559,
       "exportedPath": "jol/level-1/1.2/1.2.3-making-meditation-a-habit-meditation.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.3 making meditation a habit summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1000,
       "exportedPath": "jol/level-1/1.2/1.2.3-making-meditation-a-habit-summary.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.3 making meditation a habit view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6922,
       "exportedPath": "jol/level-1/1.2/1.2.3-making-meditation-a-habit-view.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.4 non-meditation application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1564,
       "exportedPath": "jol/level-1/1.2/1.2.4-non-meditation-application.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.4 non-meditation introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 594,
       "exportedPath": "jol/level-1/1.2/1.2.4-non-meditation-introduction.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.4 non-meditation meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7941,
       "exportedPath": "jol/level-1/1.2/1.2.4-non-meditation-meditation.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.4 non-meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 579,
       "exportedPath": "jol/level-1/1.2/1.2.4-non-meditation.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.4 non-meditation summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1148,
       "exportedPath": "jol/level-1/1.2/1.2.4-non-meditation-summary.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.4 non-meditation view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6908,
       "exportedPath": "jol/level-1/1.2/1.2.4-non-meditation-view.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.5 the problem is the solution application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4271,
       "exportedPath": "jol/level-1/1.2/1.2.5-the-problem-is-the-solution-application.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.5 the problem is the solution introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 859,
       "exportedPath": "jol/level-1/1.2/1.2.5-the-problem-is-the-solution-introduction.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.5 the problem is the solution meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7447,
       "exportedPath": "jol/level-1/1.2/1.2.5-the-problem-is-the-solution-meditation.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.5 the problem is the solution summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1142,
       "exportedPath": "jol/level-1/1.2/1.2.5-the-problem-is-the-solution-summary.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.5 the problem is the solution.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 696,
       "exportedPath": "jol/level-1/1.2/1.2.5-the-problem-is-the-solution.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.5 the problem is the solution view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6069,
       "exportedPath": "jol/level-1/1.2/1.2.5-the-problem-is-the-solution-view.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.6 the ups and downs of meditation application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1619,
       "exportedPath": "jol/level-1/1.2/1.2.6-the-ups-and-downs-of-meditation-application.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.6 the ups and downs of meditation introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 776,
       "exportedPath": "jol/level-1/1.2/1.2.6-the-ups-and-downs-of-meditation-introduction.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.6 the ups and downs of meditation meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 9812,
       "exportedPath": "jol/level-1/1.2/1.2.6-the-ups-and-downs-of-meditation-meditation.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.6 the ups and downs of meditation summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1016,
       "exportedPath": "jol/level-1/1.2/1.2.6-the-ups-and-downs-of-meditation-summary.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.6 the ups and downs of meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 732,
       "exportedPath": "jol/level-1/1.2/1.2.6-the-ups-and-downs-of-meditation.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.6 the ups and downs of meditation view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6614,
       "exportedPath": "jol/level-1/1.2/1.2.6-the-ups-and-downs-of-meditation-view.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.7 energy movement application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5845,
       "exportedPath": "jol/level-1/1.2/1.2.7-energy-movement-application.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.7 energy movement.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 588,
       "exportedPath": "jol/level-1/1.2/1.2.7-energy-movement.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.7 energy movement introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 620,
       "exportedPath": "jol/level-1/1.2/1.2.7-energy-movement-introduction.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.7 energy movement meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2611,
       "exportedPath": "jol/level-1/1.2/1.2.7-energy-movement-meditation.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.7 energy movement summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1172,
       "exportedPath": "jol/level-1/1.2/1.2.7-energy-movement-summary.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.7 energy movement view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6389,
       "exportedPath": "jol/level-1/1.2/1.2.7-energy-movement-view.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.8 key points of meditation application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2262,
       "exportedPath": "jol/level-1/1.2/1.2.8-key-points-of-meditation-application.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.8 key points of meditation introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 626,
       "exportedPath": "jol/level-1/1.2/1.2.8-key-points-of-meditation-introduction.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.8 key points of meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 669,
       "exportedPath": "jol/level-1/1.2/1.2.8-key-points-of-meditation.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.8 key points of meditation meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6073,
       "exportedPath": "jol/level-1/1.2/1.2.8-key-points-of-meditation-meditation.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.8 key points of meditation summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 982,
       "exportedPath": "jol/level-1/1.2/1.2.8-key-points-of-meditation-summary.html",
       "dependencies": []
     },
     "JOL/Level 1/1.2/1.2.8 key points of meditation view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 10721,
       "exportedPath": "jol/level-1/1.2/1.2.8-key-points-of-meditation-view.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3 emotional balance conclusion.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4297,
       "exportedPath": "jol/level-1/1.3/1.3-emotional-balance-conclusion.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3 emotional balance.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 992,
       "exportedPath": "jol/level-1/1.3/1.3-emotional-balance.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3 emotional balance welcome.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5812,
       "exportedPath": "jol/level-1/1.3/1.3-emotional-balance-welcome.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.1 transforming thoughts application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1422,
       "exportedPath": "jol/level-1/1.3/1.3.1-transforming-thoughts-application.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.1 transforming thoughts introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 776,
       "exportedPath": "jol/level-1/1.3/1.3.1-transforming-thoughts-introduction.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.1 transforming thoughts meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 11254,
       "exportedPath": "jol/level-1/1.3/1.3.1-transforming-thoughts-meditation.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.1 transforming thoughts summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 976,
       "exportedPath": "jol/level-1/1.3/1.3.1-transforming-thoughts-summary.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.1 transforming thoughts.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 642,
       "exportedPath": "jol/level-1/1.3/1.3.1-transforming-thoughts.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.1 transforming thoughts view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7382,
       "exportedPath": "jol/level-1/1.3/1.3.1-transforming-thoughts-view.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.2 it's just a thought application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1638,
       "exportedPath": "jol/level-1/1.3/1.3.2-it's-just-a-thought-application.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.2 it's just a thought introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 729,
       "exportedPath": "jol/level-1/1.3/1.3.2-it's-just-a-thought-introduction.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.2 it's just a thought.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 624,
       "exportedPath": "jol/level-1/1.3/1.3.2-it's-just-a-thought.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.2 it's just a thought meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6601,
       "exportedPath": "jol/level-1/1.3/1.3.2-it's-just-a-thought-meditation.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.2 it's just a thought summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1050,
       "exportedPath": "jol/level-1/1.3/1.3.2-it's-just-a-thought-summary.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.2 it's just a thought view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7402,
       "exportedPath": "jol/level-1/1.3/1.3.2-it's-just-a-thought-view.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.3 embracing difficulties application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1503,
       "exportedPath": "jol/level-1/1.3/1.3.3-embracing-difficulties-application.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.3 embracing difficulties.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 651,
       "exportedPath": "jol/level-1/1.3/1.3.3-embracing-difficulties.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.3 embracing difficulties introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 858,
       "exportedPath": "jol/level-1/1.3/1.3.3-embracing-difficulties-introduction.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.3 embracing difficulties meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7268,
       "exportedPath": "jol/level-1/1.3/1.3.3-embracing-difficulties-meditation.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.3 embracing difficulties summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1068,
       "exportedPath": "jol/level-1/1.3/1.3.3-embracing-difficulties-summary.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.3 embracing difficulties view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5479,
       "exportedPath": "jol/level-1/1.3/1.3.3-embracing-difficulties-view.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.4 transforming emotions application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1765,
       "exportedPath": "jol/level-1/1.3/1.3.4-transforming-emotions-application.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.4 transforming emotions introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 595,
       "exportedPath": "jol/level-1/1.3/1.3.4-transforming-emotions-introduction.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.4 transforming emotions meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 9222,
       "exportedPath": "jol/level-1/1.3/1.3.4-transforming-emotions-meditation.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.4 transforming emotions summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1126,
       "exportedPath": "jol/level-1/1.3/1.3.4-transforming-emotions-summary.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.4 transforming emotions.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 642,
       "exportedPath": "jol/level-1/1.3/1.3.4-transforming-emotions.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.4 transforming emotions view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6362,
       "exportedPath": "jol/level-1/1.3/1.3.4-transforming-emotions-view.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.5 everything is your friend application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1440,
       "exportedPath": "jol/level-1/1.3/1.3.5-everything-is-your-friend-application.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.5 everything is your friend.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 678,
       "exportedPath": "jol/level-1/1.3/1.3.5-everything-is-your-friend.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.5 everything is your friend introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 889,
       "exportedPath": "jol/level-1/1.3/1.3.5-everything-is-your-friend-introduction.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.5 everything is your friend meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7692,
       "exportedPath": "jol/level-1/1.3/1.3.5-everything-is-your-friend-meditation.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.5 everything is your friend summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1087,
       "exportedPath": "jol/level-1/1.3/1.3.5-everything-is-your-friend-summary.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.5 everything is your friend view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 8862,
       "exportedPath": "jol/level-1/1.3/1.3.5-everything-is-your-friend-view.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.6 choiceless awareness application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1578,
       "exportedPath": "jol/level-1/1.3/1.3.6-choiceless-awareness-application.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.6 choiceless awareness.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 633,
       "exportedPath": "jol/level-1/1.3/1.3.6-choiceless-awareness.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.6 choiceless awareness introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 932,
       "exportedPath": "jol/level-1/1.3/1.3.6-choiceless-awareness-introduction.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.6 choiceless awareness meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 8339,
       "exportedPath": "jol/level-1/1.3/1.3.6-choiceless-awareness-meditation.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.6 choiceless awareness summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1020,
       "exportedPath": "jol/level-1/1.3/1.3.6-choiceless-awareness-summary.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.6 choiceless awareness view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 8354,
       "exportedPath": "jol/level-1/1.3/1.3.6-choiceless-awareness-view.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.7 freedom from within application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1664,
       "exportedPath": "jol/level-1/1.3/1.3.7-freedom-from-within-application.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.7 freedom from within.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 624,
       "exportedPath": "jol/level-1/1.3/1.3.7-freedom-from-within.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.7 freedom from within introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 627,
       "exportedPath": "jol/level-1/1.3/1.3.7-freedom-from-within-introduction.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.7 freedom from within meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6702,
       "exportedPath": "jol/level-1/1.3/1.3.7-freedom-from-within-meditation.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.7 freedom from within summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 983,
       "exportedPath": "jol/level-1/1.3/1.3.7-freedom-from-within-summary.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.7 freedom from within view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6847,
       "exportedPath": "jol/level-1/1.3/1.3.7-freedom-from-within-view.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.8 stillness movement and awareness application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4857,
       "exportedPath": "jol/level-1/1.3/1.3.8-stillness-movement-and-awareness-application.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.8 stillness movement and awareness introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 969,
       "exportedPath": "jol/level-1/1.3/1.3.8-stillness-movement-and-awareness-introduction.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.8 stillness movement and awareness meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6329,
       "exportedPath": "jol/level-1/1.3/1.3.8-stillness-movement-and-awareness-meditation.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.8 stillness movement and awareness.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 749,
       "exportedPath": "jol/level-1/1.3/1.3.8-stillness-movement-and-awareness.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.8 stillness movement and awareness summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1003,
       "exportedPath": "jol/level-1/1.3/1.3.8-stillness-movement-and-awareness-summary.html",
       "dependencies": []
     },
     "JOL/Level 1/1.3/1.3.8 stillness movement and awareness view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7752,
       "exportedPath": "jol/level-1/1.3/1.3.8-stillness-movement-and-awareness-view.html",
       "dependencies": []
     },
     "JOL/Level 1/level 1 calming the mind.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 753,
       "exportedPath": "jol/level-1/level-1-calming-the-mind.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1 love conclusion.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5760,
       "exportedPath": "jol/level-2/2.1/2.1-love-conclusion.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1 love.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 782,
       "exportedPath": "jol/level-2/2.1/2.1-love.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1 love welcome.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 13387,
       "exportedPath": "jol/level-2/2.1/2.1-love-welcome.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.1 intro to basic goodness application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3982,
       "exportedPath": "jol/level-2/2.1/2.1.1-intro-to-basic-goodness-application.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.1 intro to basic goodness.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 788,
       "exportedPath": "jol/level-2/2.1/2.1.1-intro-to-basic-goodness.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.1 intro to basic goodness introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2226,
       "exportedPath": "jol/level-2/2.1/2.1.1-intro-to-basic-goodness-introduction.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.1 intro to basic goodness meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7498,
       "exportedPath": "jol/level-2/2.1/2.1.1-intro-to-basic-goodness-meditation.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.1 intro to basic goodness summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1134,
       "exportedPath": "jol/level-2/2.1/2.1.1-intro-to-basic-goodness-summary.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.1 intro to basic goodness view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 8641,
       "exportedPath": "jol/level-2/2.1/2.1.1-intro-to-basic-goodness-view.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.2 love for oneself application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4321,
       "exportedPath": "jol/level-2/2.1/2.1.2-love-for-oneself-application.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.2 love for oneself introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2592,
       "exportedPath": "jol/level-2/2.1/2.1.2-love-for-oneself-introduction.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.2 love for oneself.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 711,
       "exportedPath": "jol/level-2/2.1/2.1.2-love-for-oneself.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.2 love for oneself meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6845,
       "exportedPath": "jol/level-2/2.1/2.1.2-love-for-oneself-meditation.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.2 love for oneself summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1460,
       "exportedPath": "jol/level-2/2.1/2.1.2-love-for-oneself-summary.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.2 love for oneself view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4820,
       "exportedPath": "jol/level-2/2.1/2.1.2-love-for-oneself-view.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.3 love for a loved one application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3707,
       "exportedPath": "jol/level-2/2.1/2.1.3-love-for-a-loved-one-application.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.3 love for a loved one introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1928,
       "exportedPath": "jol/level-2/2.1/2.1.3-love-for-a-loved-one-introduction.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.3 love for a loved one.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 755,
       "exportedPath": "jol/level-2/2.1/2.1.3-love-for-a-loved-one.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.3 love for a loved one meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6444,
       "exportedPath": "jol/level-2/2.1/2.1.3-love-for-a-loved-one-meditation.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.3 love for a loved one summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1114,
       "exportedPath": "jol/level-2/2.1/2.1.3-love-for-a-loved-one-summary.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.3 love for a loved one view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5182,
       "exportedPath": "jol/level-2/2.1/2.1.3-love-for-a-loved-one-view.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.4 love for a neutral person application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3196,
       "exportedPath": "jol/level-2/2.1/2.1.4-love-for-a-neutral-person-application.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.4 love for a neutral person introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2727,
       "exportedPath": "jol/level-2/2.1/2.1.4-love-for-a-neutral-person-introduction.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.4 love for a neutral person.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 810,
       "exportedPath": "jol/level-2/2.1/2.1.4-love-for-a-neutral-person.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.4 love for a neutral person meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6782,
       "exportedPath": "jol/level-2/2.1/2.1.4-love-for-a-neutral-person-meditation.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.4 love for a neutral person summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1146,
       "exportedPath": "jol/level-2/2.1/2.1.4-love-for-a-neutral-person-summary.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.4 love for a neutral person view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5787,
       "exportedPath": "jol/level-2/2.1/2.1.4-love-for-a-neutral-person-view.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.5 love for a difficult person application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5039,
       "exportedPath": "jol/level-2/2.1/2.1.5-love-for-a-difficult-person-application.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.5 love for a difficult person introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2176,
       "exportedPath": "jol/level-2/2.1/2.1.5-love-for-a-difficult-person-introduction.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.5 love for a difficult person.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 832,
       "exportedPath": "jol/level-2/2.1/2.1.5-love-for-a-difficult-person.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.5 love for a difficult person meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6304,
       "exportedPath": "jol/level-2/2.1/2.1.5-love-for-a-difficult-person-meditation.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.5 love for a difficult person summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1242,
       "exportedPath": "jol/level-2/2.1/2.1.5-love-for-a-difficult-person-summary.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.5 love for a difficult person view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7254,
       "exportedPath": "jol/level-2/2.1/2.1.5-love-for-a-difficult-person-view.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.6 love for all beings application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3310,
       "exportedPath": "jol/level-2/2.1/2.1.6-love-for-all-beings-application.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.6 love for all beings introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3791,
       "exportedPath": "jol/level-2/2.1/2.1.6-love-for-all-beings-introduction.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.6 love for all beings.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 744,
       "exportedPath": "jol/level-2/2.1/2.1.6-love-for-all-beings.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.6 love for all beings meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5948,
       "exportedPath": "jol/level-2/2.1/2.1.6-love-for-all-beings-meditation.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.6 love for all beings summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1277,
       "exportedPath": "jol/level-2/2.1/2.1.6-love-for-all-beings-summary.html",
       "dependencies": []
     },
     "JOL/Level 2/2.1/2.1.6 love for all beings view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4614,
       "exportedPath": "jol/level-2/2.1/2.1.6-love-for-all-beings-view.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2 compassion.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 906,
       "exportedPath": "jol/level-2/2.2/2.2-compassion.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2 compassion conclusion.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5168,
       "exportedPath": "jol/level-2/2.2/2.2-compassion-conclusion.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2 compassion welcome.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5733,
       "exportedPath": "jol/level-2/2.2/2.2-compassion-welcome.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.1 basic goodness and compassion application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2886,
       "exportedPath": "jol/level-2/2.2/2.2.1-basic-goodness-and-compassion-application.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.1 basic goodness and compassion - Tergar joy of living.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 840,
       "exportedPath": "jol/level-2/2.2/2.2.1-basic-goodness-and-compassion-tergar-joy-of-living.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.1 basic goodness and compassion introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3245,
       "exportedPath": "jol/level-2/2.2/2.2.1-basic-goodness-and-compassion-introduction.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.1 basic goodness and compassion meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5981,
       "exportedPath": "jol/level-2/2.2/2.2.1-basic-goodness-and-compassion-meditation.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.1 basic goodness and compassion summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1267,
       "exportedPath": "jol/level-2/2.2/2.2.1-basic-goodness-and-compassion-summary.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.1 basic goodness and compassion view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5832,
       "exportedPath": "jol/level-2/2.2/2.2.1-basic-goodness-and-compassion-view.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.2 compassion for oneself application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4244,
       "exportedPath": "jol/level-2/2.2/2.2.2-compassion-for-oneself-application.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.2 compassion for oneself.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 777,
       "exportedPath": "jol/level-2/2.2/2.2.2-compassion-for-oneself.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.2 compassion for oneself introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2749,
       "exportedPath": "jol/level-2/2.2/2.2.2-compassion-for-oneself-introduction.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.2 compassion for oneself meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7240,
       "exportedPath": "jol/level-2/2.2/2.2.2-compassion-for-oneself-meditation.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.2 compassion for oneself summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1207,
       "exportedPath": "jol/level-2/2.2/2.2.2-compassion-for-oneself-summary.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.2 compassion for oneself view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5721,
       "exportedPath": "jol/level-2/2.2/2.2.2-compassion-for-oneself-view.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.3 compassion for a loved one application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2786,
       "exportedPath": "jol/level-2/2.2/2.2.3-compassion-for-a-loved-one-application.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.3 compassion for a loved one.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 821,
       "exportedPath": "jol/level-2/2.2/2.2.3-compassion-for-a-loved-one.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.3 compassion for a loved one introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2862,
       "exportedPath": "jol/level-2/2.2/2.2.3-compassion-for-a-loved-one-introduction.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.3 compassion for a loved one meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 8260,
       "exportedPath": "jol/level-2/2.2/2.2.3-compassion-for-a-loved-one-meditation.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.3 compassion for a loved one summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1304,
       "exportedPath": "jol/level-2/2.2/2.2.3-compassion-for-a-loved-one-summary.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.3 compassion for a loved one view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7969,
       "exportedPath": "jol/level-2/2.2/2.2.3-compassion-for-a-loved-one-view.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.4 compassion for a neutral person application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4165,
       "exportedPath": "jol/level-2/2.2/2.2.4-compassion-for-a-neutral-person-application.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.4 compassion for a neutral person.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 876,
       "exportedPath": "jol/level-2/2.2/2.2.4-compassion-for-a-neutral-person.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.4 compassion for a neutral person introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2680,
       "exportedPath": "jol/level-2/2.2/2.2.4-compassion-for-a-neutral-person-introduction.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.4 compassion for a neutral person meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5287,
       "exportedPath": "jol/level-2/2.2/2.2.4-compassion-for-a-neutral-person-meditation.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.4 compassion for a neutral person summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1338,
       "exportedPath": "jol/level-2/2.2/2.2.4-compassion-for-a-neutral-person-summary.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.4 compassion for a neutral person view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7325,
       "exportedPath": "jol/level-2/2.2/2.2.4-compassion-for-a-neutral-person-view.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.5 compassion for a difficult person application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2603,
       "exportedPath": "jol/level-2/2.2/2.2.5-compassion-for-a-difficult-person-application.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.5 compassion for a difficult person.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 898,
       "exportedPath": "jol/level-2/2.2/2.2.5-compassion-for-a-difficult-person.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.5 compassion for a difficult person introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2824,
       "exportedPath": "jol/level-2/2.2/2.2.5-compassion-for-a-difficult-person-introduction.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.5 compassion for a difficult person meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5682,
       "exportedPath": "jol/level-2/2.2/2.2.5-compassion-for-a-difficult-person-meditation.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.5 compassion for a difficult person summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1141,
       "exportedPath": "jol/level-2/2.2/2.2.5-compassion-for-a-difficult-person-summary.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.5 compassion for a difficult person view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 8650,
       "exportedPath": "jol/level-2/2.2/2.2.5-compassion-for-a-difficult-person-view.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.6 compassion for all beings application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3181,
       "exportedPath": "jol/level-2/2.2/2.2.6-compassion-for-all-beings-application.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.6 compassion for all beings.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 810,
       "exportedPath": "jol/level-2/2.2/2.2.6-compassion-for-all-beings.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.6 compassion for all beings introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2769,
       "exportedPath": "jol/level-2/2.2/2.2.6-compassion-for-all-beings-introduction.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.6 compassion for all beings meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5952,
       "exportedPath": "jol/level-2/2.2/2.2.6-compassion-for-all-beings-meditation.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.6 compassion for all beings summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1191,
       "exportedPath": "jol/level-2/2.2/2.2.6-compassion-for-all-beings-summary.html",
       "dependencies": []
     },
     "JOL/Level 2/2.2/2.2.6 compassion for all beings view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 9362,
       "exportedPath": "jol/level-2/2.2/2.2.6-compassion-for-all-beings-view.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3 joy conclusion.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3567,
       "exportedPath": "jol/level-2/2.3/2.3-joy-conclusion.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3 joy.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 783,
       "exportedPath": "jol/level-2/2.3/2.3-joy.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3 joy welcome.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6047,
       "exportedPath": "jol/level-2/2.3/2.3-joy-welcome.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.1 basic goodness and joy application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2978,
       "exportedPath": "jol/level-2/2.3/2.3.1-basic-goodness-and-joy-application.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.1 basic goodness and joy.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 777,
       "exportedPath": "jol/level-2/2.3/2.3.1-basic-goodness-and-joy.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.1 basic goodness and joy introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2172,
       "exportedPath": "jol/level-2/2.3/2.3.1-basic-goodness-and-joy-introduction.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.1 basic goodness and joy meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4163,
       "exportedPath": "jol/level-2/2.3/2.3.1-basic-goodness-and-joy-meditation.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.1 basic goodness and joy summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1165,
       "exportedPath": "jol/level-2/2.3/2.3.1-basic-goodness-and-joy-summary.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.1 basic goodness and joy view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 8422,
       "exportedPath": "jol/level-2/2.3/2.3.1-basic-goodness-and-joy-view.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.2 joy for oneself application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3370,
       "exportedPath": "jol/level-2/2.3/2.3.2-joy-for-oneself-application.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.2 joy for oneself introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2573,
       "exportedPath": "jol/level-2/2.3/2.3.2-joy-for-oneself-introduction.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.2 joy for oneself.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 700,
       "exportedPath": "jol/level-2/2.3/2.3.2-joy-for-oneself.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.2 joy for oneself meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5547,
       "exportedPath": "jol/level-2/2.3/2.3.2-joy-for-oneself-meditation.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.2 joy for oneself summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1165,
       "exportedPath": "jol/level-2/2.3/2.3.2-joy-for-oneself-summary.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.2 joy for oneself view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7196,
       "exportedPath": "jol/level-2/2.3/2.3.2-joy-for-oneself-view.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.3 joy for a loved one application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2177,
       "exportedPath": "jol/level-2/2.3/2.3.3-joy-for-a-loved-one-application.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.3 joy for a loved one introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1837,
       "exportedPath": "jol/level-2/2.3/2.3.3-joy-for-a-loved-one-introduction.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.3 joy for a loved one.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 744,
       "exportedPath": "jol/level-2/2.3/2.3.3-joy-for-a-loved-one.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.3 joy for a loved one meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5638,
       "exportedPath": "jol/level-2/2.3/2.3.3-joy-for-a-loved-one-meditation.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.3 joy for a loved one summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1146,
       "exportedPath": "jol/level-2/2.3/2.3.3-joy-for-a-loved-one-summary.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.3 joy for a loved one view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4814,
       "exportedPath": "jol/level-2/2.3/2.3.3-joy-for-a-loved-one-view.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.4 joy for a neutral person application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3310,
       "exportedPath": "jol/level-2/2.3/2.3.4-joy-for-a-neutral-person-application.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.4 joy for a neutral person introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2685,
       "exportedPath": "jol/level-2/2.3/2.3.4-joy-for-a-neutral-person-introduction.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.4 joy for a neutral person.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 793,
       "exportedPath": "jol/level-2/2.3/2.3.4-joy-for-a-neutral-person.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.4 joy for a neutral person meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5382,
       "exportedPath": "jol/level-2/2.3/2.3.4-joy-for-a-neutral-person-meditation.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.4 joy for a neutral person summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1165,
       "exportedPath": "jol/level-2/2.3/2.3.4-joy-for-a-neutral-person-summary.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.4 joy for a neutral person view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4785,
       "exportedPath": "jol/level-2/2.3/2.3.4-joy-for-a-neutral-person-view.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.5 joy for a difficult person application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3654,
       "exportedPath": "jol/level-2/2.3/2.3.5-joy-for-a-difficult-person-application.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.5 joy for a difficult person introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2096,
       "exportedPath": "jol/level-2/2.3/2.3.5-joy-for-a-difficult-person-introduction.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.5 joy for a difficult person.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 821,
       "exportedPath": "jol/level-2/2.3/2.3.5-joy-for-a-difficult-person.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.5 joy for a difficult person meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6129,
       "exportedPath": "jol/level-2/2.3/2.3.5-joy-for-a-difficult-person-meditation.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.5 joy for a difficult person summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1119,
       "exportedPath": "jol/level-2/2.3/2.3.5-joy-for-a-difficult-person-summary.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.5 joy for a difficult person view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7575,
       "exportedPath": "jol/level-2/2.3/2.3.5-joy-for-a-difficult-person-view.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.6 joy for all beings application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3741,
       "exportedPath": "jol/level-2/2.3/2.3.6-joy-for-all-beings-application.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.6 joy for all beings introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1931,
       "exportedPath": "jol/level-2/2.3/2.3.6-joy-for-all-beings-introduction.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.6 joy for all beings.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 733,
       "exportedPath": "jol/level-2/2.3/2.3.6-joy-for-all-beings.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.6 joy for all beings meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5635,
       "exportedPath": "jol/level-2/2.3/2.3.6-joy-for-all-beings-meditation.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.6 joy for all beings summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1153,
       "exportedPath": "jol/level-2/2.3/2.3.6-joy-for-all-beings-summary.html",
       "dependencies": []
     },
     "JOL/Level 2/2.3/2.3.6 joy for all beings view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7094,
       "exportedPath": "jol/level-2/2.3/2.3.6-joy-for-all-beings-view.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4 transformation and equanimity conclusion.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6871,
       "exportedPath": "jol/level-2/2.4/2.4-transformation-and-equanimity-conclusion.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4 transformation and equanimity.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 981,
       "exportedPath": "jol/level-2/2.4/2.4-transformation-and-equanimity.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4 transformation and equanimity welcome.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5368,
       "exportedPath": "jol/level-2/2.4/2.4-transformation-and-equanimity-welcome.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.1 transforming difficult emotions application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5996,
       "exportedPath": "jol/level-2/2.4/2.4.1-transforming-difficult-emotions-application.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.1 transforming difficult emotions introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3552,
       "exportedPath": "jol/level-2/2.4/2.4.1-transforming-difficult-emotions-introduction.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.1 transforming difficult emotions meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 11056,
       "exportedPath": "jol/level-2/2.4/2.4.1-transforming-difficult-emotions-meditation.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.1 transforming difficult emotions summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1250,
       "exportedPath": "jol/level-2/2.4/2.4.1-transforming-difficult-emotions-summary.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.1 transforming difficult emotions.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 876,
       "exportedPath": "jol/level-2/2.4/2.4.1-transforming-difficult-emotions.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.1 transforming difficult emotions view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5240,
       "exportedPath": "jol/level-2/2.4/2.4.1-transforming-difficult-emotions-view.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.2 transforming difficult situations application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4617,
       "exportedPath": "jol/level-2/2.4/2.4.2-transforming-difficult-situations-application.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.2 transforming difficult situations introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2977,
       "exportedPath": "jol/level-2/2.4/2.4.2-transforming-difficult-situations-introduction.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.2 transforming difficult situations meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6993,
       "exportedPath": "jol/level-2/2.4/2.4.2-transforming-difficult-situations-meditation.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.2 transforming difficult situations summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1291,
       "exportedPath": "jol/level-2/2.4/2.4.2-transforming-difficult-situations-summary.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.2 transforming difficult situations.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 898,
       "exportedPath": "jol/level-2/2.4/2.4.2-transforming-difficult-situations.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.2 transforming difficult situations view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6765,
       "exportedPath": "jol/level-2/2.4/2.4.2-transforming-difficult-situations-view.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.3 recognizing innate love application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4306,
       "exportedPath": "jol/level-2/2.4/2.4.3-recognizing-innate-love-application.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.3 recognizing innate love introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2118,
       "exportedPath": "jol/level-2/2.4/2.4.3-recognizing-innate-love-introduction.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.3 recognizing innate love meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7823,
       "exportedPath": "jol/level-2/2.4/2.4.3-recognizing-innate-love-meditation.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.3 recognizing innate love.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 788,
       "exportedPath": "jol/level-2/2.4/2.4.3-recognizing-innate-love.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.3 recognizing innate love summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1293,
       "exportedPath": "jol/level-2/2.4/2.4.3-recognizing-innate-love-summary.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.3 recognizing innate love view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4746,
       "exportedPath": "jol/level-2/2.4/2.4.3-recognizing-innate-love-view.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.4 basic goodness as equanimity application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4301,
       "exportedPath": "jol/level-2/2.4/2.4.4-basic-goodness-as-equanimity-application.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.4 basic goodness as equanimity.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 843,
       "exportedPath": "jol/level-2/2.4/2.4.4-basic-goodness-as-equanimity.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.4 basic goodness as equanimity introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3097,
       "exportedPath": "jol/level-2/2.4/2.4.4-basic-goodness-as-equanimity-introduction.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.4 basic goodness as equanimity meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5334,
       "exportedPath": "jol/level-2/2.4/2.4.4-basic-goodness-as-equanimity-meditation.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.4 basic goodness as equanimity summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1299,
       "exportedPath": "jol/level-2/2.4/2.4.4-basic-goodness-as-equanimity-summary.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.4 basic goodness as equanimity view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4799,
       "exportedPath": "jol/level-2/2.4/2.4.4-basic-goodness-as-equanimity-view.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.5 love and hate application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3313,
       "exportedPath": "jol/level-2/2.4/2.4.5-love-and-hate-application.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.5 love and hate introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1819,
       "exportedPath": "jol/level-2/2.4/2.4.5-love-and-hate-introduction.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.5 love and hate.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 678,
       "exportedPath": "jol/level-2/2.4/2.4.5-love-and-hate.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.5 love and hate meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6269,
       "exportedPath": "jol/level-2/2.4/2.4.5-love-and-hate-meditation.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.5 love and hate summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1280,
       "exportedPath": "jol/level-2/2.4/2.4.5-love-and-hate-summary.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.5 love and hate view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3968,
       "exportedPath": "jol/level-2/2.4/2.4.5-love-and-hate-view.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.6 equanimity for all beings application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3742,
       "exportedPath": "jol/level-2/2.4/2.4.6-equanimity-for-all-beings-application.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.6 equanimity for all beings.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 810,
       "exportedPath": "jol/level-2/2.4/2.4.6-equanimity-for-all-beings.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.6 equanimity for all beings introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3318,
       "exportedPath": "jol/level-2/2.4/2.4.6-equanimity-for-all-beings-introduction.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.6 equanimity for all beings meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6042,
       "exportedPath": "jol/level-2/2.4/2.4.6-equanimity-for-all-beings-meditation.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.6 equanimity for all beings summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1470,
       "exportedPath": "jol/level-2/2.4/2.4.6-equanimity-for-all-beings-summary.html",
       "dependencies": []
     },
     "JOL/Level 2/2.4/2.4.6 equanimity for all beings view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3851,
       "exportedPath": "jol/level-2/2.4/2.4.6-equanimity-for-all-beings-view.html",
       "dependencies": []
     },
     "JOL/Level 2/level 2 opening the heart.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 741,
       "exportedPath": "jol/level-2/level-2-opening-the-heart.html",
       "dependencies": []
     },
     "JOL/Level 3/3.1/3.1 innate wisdom conclusion.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7319,
       "exportedPath": "jol/level-3/3.1/3.1-innate-wisdom-conclusion.html",
       "dependencies": []
     },
     "JOL/Level 3/3.1/3.1 innate wisdom.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 752,
       "exportedPath": "jol/level-3/3.1/3.1-innate-wisdom.html",
       "dependencies": []
     },
     "JOL/Level 3/3.1/3.1 innate wisdom welcome.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 17147,
       "exportedPath": "jol/level-3/3.1/3.1-innate-wisdom-welcome.html",
       "dependencies": []
     },
     "JOL/Level 3/3.1/3.1.1 welcome to innate wisdom application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4700,
       "exportedPath": "jol/level-3/3.1/3.1.1-welcome-to-innate-wisdom-application.html",
       "dependencies": []
     },
     "JOL/Level 3/3.1/3.1.1 welcome to innate wisdom introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2660,
       "exportedPath": "jol/level-3/3.1/3.1.1-welcome-to-innate-wisdom-introduction.html",
       "dependencies": []
     },
     "JOL/Level 3/3.1/3.1.1 welcome to innate wisdom meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 8738,
       "exportedPath": "jol/level-3/3.1/3.1.1-welcome-to-innate-wisdom-meditation.html",
       "dependencies": []
     },
     "JOL/Level 3/3.1/3.1.1 welcome to innate wisdom summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1188,
       "exportedPath": "jol/level-3/3.1/3.1.1-welcome-to-innate-wisdom-summary.html",
       "dependencies": []
     },
     "JOL/Level 3/3.1/3.1.1 welcome to innate wisdom view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 9067,
       "exportedPath": "jol/level-3/3.1/3.1.1-welcome-to-innate-wisdom-view.html",
       "dependencies": []
     },
     "JOL/Level 3/3.1/3.1.1 welcome to innate wisdom.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 799,
       "exportedPath": "jol/level-3/3.1/3.1.1-welcome-to-innate-wisdom.html",
       "dependencies": []
     },
     "JOL/Level 3/3.1/3.1.2 natural and self-created suffering application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5394,
       "exportedPath": "jol/level-3/3.1/3.1.2-natural-and-self-created-suffering-application.html",
       "dependencies": []
     },
     "JOL/Level 3/3.1/3.1.2 natural and self-created suffering introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2574,
       "exportedPath": "jol/level-3/3.1/3.1.2-natural-and-self-created-suffering-introduction.html",
       "dependencies": []
     },
     "JOL/Level 3/3.1/3.1.2 natural and self-created suffering meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7573,
       "exportedPath": "jol/level-3/3.1/3.1.2-natural-and-self-created-suffering-meditation.html",
       "dependencies": []
     },
     "JOL/Level 3/3.1/3.1.2 natural and self-created suffering.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 909,
       "exportedPath": "jol/level-3/3.1/3.1.2-natural-and-self-created-suffering.html",
       "dependencies": []
     },
     "JOL/Level 3/3.1/3.1.2 natural and self-created suffering summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1105,
       "exportedPath": "jol/level-3/3.1/3.1.2-natural-and-self-created-suffering-summary.html",
       "dependencies": []
     },
     "JOL/Level 3/3.1/3.1.2 natural and self-created suffering view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 12611,
       "exportedPath": "jol/level-3/3.1/3.1.2-natural-and-self-created-suffering-view.html",
       "dependencies": []
     },
     "JOL/Level 3/3.1/3.1.3 analytical meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 766,
       "exportedPath": "jol/level-3/3.1/3.1.3-analytical-meditation.html",
       "dependencies": []
     },
     "JOL/Level 3/3.1/3.1.3 analytical meditation application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4354,
       "exportedPath": "jol/level-3/3.1/3.1.3-analytical-meditation-application.html",
       "dependencies": []
     },
     "JOL/Level 3/3.1/3.1.3 analytical meditation introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2965,
       "exportedPath": "jol/level-3/3.1/3.1.3-analytical-meditation-introduction.html",
       "dependencies": []
     },
     "JOL/Level 3/3.1/3.1.3 analytical meditation meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7290,
       "exportedPath": "jol/level-3/3.1/3.1.3-analytical-meditation-meditation.html",
       "dependencies": []
     },
     "JOL/Level 3/3.1/3.1.3 analytical meditation summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1121,
       "exportedPath": "jol/level-3/3.1/3.1.3-analytical-meditation-summary.html",
       "dependencies": []
     },
     "JOL/Level 3/3.1/3.1.3 analytical meditation view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 8992,
       "exportedPath": "jol/level-3/3.1/3.1.3-analytical-meditation-view.html",
       "dependencies": []
     },
     "JOL/Level 3/3.1/3.1.4 the sense of self application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4313,
       "exportedPath": "jol/level-3/3.1/3.1.4-the-sense-of-self-application.html",
       "dependencies": []
     },
     "JOL/Level 3/3.1/3.1.4 the sense of self introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3486,
       "exportedPath": "jol/level-3/3.1/3.1.4-the-sense-of-self-introduction.html",
       "dependencies": []
     },
     "JOL/Level 3/3.1/3.1.4 the sense of self meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7552,
       "exportedPath": "jol/level-3/3.1/3.1.4-the-sense-of-self-meditation.html",
       "dependencies": []
     },
     "JOL/Level 3/3.1/3.1.4 the sense of self summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 957,
       "exportedPath": "jol/level-3/3.1/3.1.4-the-sense-of-self-summary.html",
       "dependencies": []
     },
     "JOL/Level 3/3.1/3.1.4 the sense of self.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 721,
       "exportedPath": "jol/level-3/3.1/3.1.4-the-sense-of-self.html",
       "dependencies": []
     },
     "JOL/Level 3/3.1/3.1.4 the sense of self view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 9511,
       "exportedPath": "jol/level-3/3.1/3.1.4-the-sense-of-self-view.html",
       "dependencies": []
     },
     "JOL/Level 3/3.2/3.2 multiplicity and interdependence conclusion.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1222,
       "exportedPath": "jol/level-3/3.2/3.2-multiplicity-and-interdependence-conclusion.html",
       "dependencies": []
     },
     "JOL/Level 3/3.2/3.2 multiplicity and interdependence.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 901,
       "exportedPath": "jol/level-3/3.2/3.2-multiplicity-and-interdependence.html",
       "dependencies": []
     },
     "JOL/Level 3/3.2/3.2 multiplicity and interdependence welcome.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 9214,
       "exportedPath": "jol/level-3/3.2/3.2-multiplicity-and-interdependence-welcome.html",
       "dependencies": []
     },
     "JOL/Level 3/3.2/3.2.1 welcome to multiplicity and interdependence application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5125,
       "exportedPath": "jol/level-3/3.2/3.2.1-welcome-to-multiplicity-and-interdependence-application.html",
       "dependencies": []
     },
     "JOL/Level 3/3.2/3.2.1 welcome to multiplicity and interdependence introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2820,
       "exportedPath": "jol/level-3/3.2/3.2.1-welcome-to-multiplicity-and-interdependence-introduction.html",
       "dependencies": []
     },
     "JOL/Level 3/3.2/3.2.1 welcome to multiplicity and interdependence meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 9635,
       "exportedPath": "jol/level-3/3.2/3.2.1-welcome-to-multiplicity-and-interdependence-meditation.html",
       "dependencies": []
     },
     "JOL/Level 3/3.2/3.2.1 welcome to multiplicity and interdependence summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1151,
       "exportedPath": "jol/level-3/3.2/3.2.1-welcome-to-multiplicity-and-interdependence-summary.html",
       "dependencies": []
     },
     "JOL/Level 3/3.2/3.2.1 welcome to multiplicity and interdependence view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 9394,
       "exportedPath": "jol/level-3/3.2/3.2.1-welcome-to-multiplicity-and-interdependence-view.html",
       "dependencies": []
     },
     "JOL/Level 3/3.2/3.2.1 welcome to multiplicity and interdependence.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1008,
       "exportedPath": "jol/level-3/3.2/3.2.1-welcome-to-multiplicity-and-interdependence.html",
       "dependencies": []
     },
     "JOL/Level 3/3.2/3.2.2 wisdom of multiplicity application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3795,
       "exportedPath": "jol/level-3/3.2/3.2.2-wisdom-of-multiplicity-application.html",
       "dependencies": []
     },
     "JOL/Level 3/3.2/3.2.2 wisdom of multiplicity introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2277,
       "exportedPath": "jol/level-3/3.2/3.2.2-wisdom-of-multiplicity-introduction.html",
       "dependencies": []
     },
     "JOL/Level 3/3.2/3.2.2 wisdom of multiplicity meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 8920,
       "exportedPath": "jol/level-3/3.2/3.2.2-wisdom-of-multiplicity-meditation.html",
       "dependencies": []
     },
     "JOL/Level 3/3.2/3.2.2 wisdom of multiplicity summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1179,
       "exportedPath": "jol/level-3/3.2/3.2.2-wisdom-of-multiplicity-summary.html",
       "dependencies": []
     },
     "JOL/Level 3/3.2/3.2.2 wisdom of multiplicity view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 8475,
       "exportedPath": "jol/level-3/3.2/3.2.2-wisdom-of-multiplicity-view.html",
       "dependencies": []
     },
     "JOL/Level 3/3.2/3.2.2 wisdom of multiplicity.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 777,
       "exportedPath": "jol/level-3/3.2/3.2.2-wisdom-of-multiplicity.html",
       "dependencies": []
     },
     "JOL/Level 3/3.2/3.2.3 interdependence and self application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4563,
       "exportedPath": "jol/level-3/3.2/3.2.3-interdependence-and-self-application.html",
       "dependencies": []
     },
     "JOL/Level 3/3.2/3.2.3 interdependence and self.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 799,
       "exportedPath": "jol/level-3/3.2/3.2.3-interdependence-and-self.html",
       "dependencies": []
     },
     "JOL/Level 3/3.2/3.2.3 interdependence and self introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4059,
       "exportedPath": "jol/level-3/3.2/3.2.3-interdependence-and-self-introduction.html",
       "dependencies": []
     },
     "JOL/Level 3/3.2/3.2.3 interdependence and self meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 8933,
       "exportedPath": "jol/level-3/3.2/3.2.3-interdependence-and-self-meditation.html",
       "dependencies": []
     },
     "JOL/Level 3/3.2/3.2.3 interdependence and self summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1238,
       "exportedPath": "jol/level-3/3.2/3.2.3-interdependence-and-self-summary.html",
       "dependencies": []
     },
     "JOL/Level 3/3.2/3.2.3 interdependence and self view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7957,
       "exportedPath": "jol/level-3/3.2/3.2.3-interdependence-and-self-view.html",
       "dependencies": []
     },
     "JOL/Level 3/3.2/3.2.4 wisdom of interdependence application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4162,
       "exportedPath": "jol/level-3/3.2/3.2.4-wisdom-of-interdependence-application.html",
       "dependencies": []
     },
     "JOL/Level 3/3.2/3.2.4 wisdom of interdependence introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2116,
       "exportedPath": "jol/level-3/3.2/3.2.4-wisdom-of-interdependence-introduction.html",
       "dependencies": []
     },
     "JOL/Level 3/3.2/3.2.4 wisdom of interdependence meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7039,
       "exportedPath": "jol/level-3/3.2/3.2.4-wisdom-of-interdependence-meditation.html",
       "dependencies": []
     },
     "JOL/Level 3/3.2/3.2.4 wisdom of interdependence summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1063,
       "exportedPath": "jol/level-3/3.2/3.2.4-wisdom-of-interdependence-summary.html",
       "dependencies": []
     },
     "JOL/Level 3/3.2/3.2.4 wisdom of interdependence view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7784,
       "exportedPath": "jol/level-3/3.2/3.2.4-wisdom-of-interdependence-view.html",
       "dependencies": []
     },
     "JOL/Level 3/3.2/3.2.4 wisdom of interdependence.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 810,
       "exportedPath": "jol/level-3/3.2/3.2.4-wisdom-of-interdependence.html",
       "dependencies": []
     },
     "JOL/Level 3/3.3/3.3 impermanence and transformation conclusion.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7653,
       "exportedPath": "jol/level-3/3.3/3.3-impermanence-and-transformation-conclusion.html",
       "dependencies": []
     },
     "JOL/Level 3/3.3/3.3 impermanence and transformation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 892,
       "exportedPath": "jol/level-3/3.3/3.3-impermanence-and-transformation.html",
       "dependencies": []
     },
     "JOL/Level 3/3.3/3.3 impermanence and transformation welcome.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7288,
       "exportedPath": "jol/level-3/3.3/3.3-impermanence-and-transformation-welcome.html",
       "dependencies": []
     },
     "JOL/Level 3/3.3/3.3.1 welcome to impermanence and transformation application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6060,
       "exportedPath": "jol/level-3/3.3/3.3.1-welcome-to-impermanence-and-transformation-application.html",
       "dependencies": []
     },
     "JOL/Level 3/3.3/3.3.1 welcome to impermanence and transformation introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1982,
       "exportedPath": "jol/level-3/3.3/3.3.1-welcome-to-impermanence-and-transformation-introduction.html",
       "dependencies": []
     },
     "JOL/Level 3/3.3/3.3.1 welcome to impermanence and transformation meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 9008,
       "exportedPath": "jol/level-3/3.3/3.3.1-welcome-to-impermanence-and-transformation-meditation.html",
       "dependencies": []
     },
     "JOL/Level 3/3.3/3.3.1 welcome to impermanence and transformation summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1217,
       "exportedPath": "jol/level-3/3.3/3.3.1-welcome-to-impermanence-and-transformation-summary.html",
       "dependencies": []
     },
     "JOL/Level 3/3.3/3.3.1 welcome to impermanence and transformation view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 9851,
       "exportedPath": "jol/level-3/3.3/3.3.1-welcome-to-impermanence-and-transformation-view.html",
       "dependencies": []
     },
     "JOL/Level 3/3.3/3.3.1 welcome to impermanence and transformation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 997,
       "exportedPath": "jol/level-3/3.3/3.3.1-welcome-to-impermanence-and-transformation.html",
       "dependencies": []
     },
     "JOL/Level 3/3.3/3.3.2 wisdom of impermanence application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4920,
       "exportedPath": "jol/level-3/3.3/3.3.2-wisdom-of-impermanence-application.html",
       "dependencies": []
     },
     "JOL/Level 3/3.3/3.3.2 wisdom of impermanence introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3091,
       "exportedPath": "jol/level-3/3.3/3.3.2-wisdom-of-impermanence-introduction.html",
       "dependencies": []
     },
     "JOL/Level 3/3.3/3.3.2 wisdom of impermanence meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 8299,
       "exportedPath": "jol/level-3/3.3/3.3.2-wisdom-of-impermanence-meditation.html",
       "dependencies": []
     },
     "JOL/Level 3/3.3/3.3.2 wisdom of impermanence summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1205,
       "exportedPath": "jol/level-3/3.3/3.3.2-wisdom-of-impermanence-summary.html",
       "dependencies": []
     },
     "JOL/Level 3/3.3/3.3.2 wisdom of impermanence view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 9520,
       "exportedPath": "jol/level-3/3.3/3.3.2-wisdom-of-impermanence-view.html",
       "dependencies": []
     },
     "JOL/Level 3/3.3/3.3.2 wisdom of impermanence.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 777,
       "exportedPath": "jol/level-3/3.3/3.3.2-wisdom-of-impermanence.html",
       "dependencies": []
     },
     "JOL/Level 3/3.3/3.3.3 transformation and emotion application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5205,
       "exportedPath": "jol/level-3/3.3/3.3.3-transformation-and-emotion-application.html",
       "dependencies": []
     },
     "JOL/Level 3/3.3/3.3.3 transformation and emotion introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1932,
       "exportedPath": "jol/level-3/3.3/3.3.3-transformation-and-emotion-introduction.html",
       "dependencies": []
     },
     "JOL/Level 3/3.3/3.3.3 transformation and emotion meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 8736,
       "exportedPath": "jol/level-3/3.3/3.3.3-transformation-and-emotion-meditation.html",
       "dependencies": []
     },
     "JOL/Level 3/3.3/3.3.3 transformation and emotion summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1119,
       "exportedPath": "jol/level-3/3.3/3.3.3-transformation-and-emotion-summary.html",
       "dependencies": []
     },
     "JOL/Level 3/3.3/3.3.3 transformation and emotion.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 821,
       "exportedPath": "jol/level-3/3.3/3.3.3-transformation-and-emotion.html",
       "dependencies": []
     },
     "JOL/Level 3/3.3/3.3.3 transformation and emotion view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 9209,
       "exportedPath": "jol/level-3/3.3/3.3.3-transformation-and-emotion-view.html",
       "dependencies": []
     },
     "JOL/Level 3/3.3/3.3.4 transformation and suffering application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4756,
       "exportedPath": "jol/level-3/3.3/3.3.4-transformation-and-suffering-application.html",
       "dependencies": []
     },
     "JOL/Level 3/3.3/3.3.4 transformation and suffering introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2495,
       "exportedPath": "jol/level-3/3.3/3.3.4-transformation-and-suffering-introduction.html",
       "dependencies": []
     },
     "JOL/Level 3/3.3/3.3.4 transformation and suffering meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7667,
       "exportedPath": "jol/level-3/3.3/3.3.4-transformation-and-suffering-meditation.html",
       "dependencies": []
     },
     "JOL/Level 3/3.3/3.3.4 transformation and suffering summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1173,
       "exportedPath": "jol/level-3/3.3/3.3.4-transformation-and-suffering-summary.html",
       "dependencies": []
     },
     "JOL/Level 3/3.3/3.3.4 transformation and suffering.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 843,
       "exportedPath": "jol/level-3/3.3/3.3.4-transformation-and-suffering.html",
       "dependencies": []
     },
     "JOL/Level 3/3.3/3.3.4 transformation and suffering view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 9983,
       "exportedPath": "jol/level-3/3.3/3.3.4-transformation-and-suffering-view.html",
       "dependencies": []
     },
     "JOL/Level 3/3.4/3.4 the self beyond self conclusion.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5818,
       "exportedPath": "jol/level-3/3.4/3.4-the-self-beyond-self-conclusion.html",
       "dependencies": []
     },
     "JOL/Level 3/3.4/3.4 the self beyond self.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 775,
       "exportedPath": "jol/level-3/3.4/3.4-the-self-beyond-self.html",
       "dependencies": []
     },
     "JOL/Level 3/3.4/3.4 the self beyond self welcome.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7996,
       "exportedPath": "jol/level-3/3.4/3.4-the-self-beyond-self-welcome.html",
       "dependencies": []
     },
     "JOL/Level 3/3.4/3.4.1 welcome to the self beyond self application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6884,
       "exportedPath": "jol/level-3/3.4/3.4.1-welcome-to-the-self-beyond-self-application.html",
       "dependencies": []
     },
     "JOL/Level 3/3.4/3.4.1 welcome to the self beyond self introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1926,
       "exportedPath": "jol/level-3/3.4/3.4.1-welcome-to-the-self-beyond-self-introduction.html",
       "dependencies": []
     },
     "JOL/Level 3/3.4/3.4.1 welcome to the self beyond self meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 8479,
       "exportedPath": "jol/level-3/3.4/3.4.1-welcome-to-the-self-beyond-self-meditation.html",
       "dependencies": []
     },
     "JOL/Level 3/3.4/3.4.1 welcome to the self beyond self summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1194,
       "exportedPath": "jol/level-3/3.4/3.4.1-welcome-to-the-self-beyond-self-summary.html",
       "dependencies": []
     },
     "JOL/Level 3/3.4/3.4.1 welcome to the self beyond self view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 10761,
       "exportedPath": "jol/level-3/3.4/3.4.1-welcome-to-the-self-beyond-self-view.html",
       "dependencies": []
     },
     "JOL/Level 3/3.4/3.4.1 welcome to the self beyond self.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 876,
       "exportedPath": "jol/level-3/3.4/3.4.1-welcome-to-the-self-beyond-self.html",
       "dependencies": []
     },
     "JOL/Level 3/3.4/3.4.2 beyond multiplicity application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5697,
       "exportedPath": "jol/level-3/3.4/3.4.2-beyond-multiplicity-application.html",
       "dependencies": []
     },
     "JOL/Level 3/3.4/3.4.2 beyond multiplicity.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 744,
       "exportedPath": "jol/level-3/3.4/3.4.2-beyond-multiplicity.html",
       "dependencies": []
     },
     "JOL/Level 3/3.4/3.4.2 beyond multiplicity introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2417,
       "exportedPath": "jol/level-3/3.4/3.4.2-beyond-multiplicity-introduction.html",
       "dependencies": []
     },
     "JOL/Level 3/3.4/3.4.2 beyond multiplicity meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6903,
       "exportedPath": "jol/level-3/3.4/3.4.2-beyond-multiplicity-meditation.html",
       "dependencies": []
     },
     "JOL/Level 3/3.4/3.4.2 beyond multiplicity summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1224,
       "exportedPath": "jol/level-3/3.4/3.4.2-beyond-multiplicity-summary.html",
       "dependencies": []
     },
     "JOL/Level 3/3.4/3.4.2 beyond multiplicity view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 10983,
       "exportedPath": "jol/level-3/3.4/3.4.2-beyond-multiplicity-view.html",
       "dependencies": []
     },
     "JOL/Level 3/3.4/3.4.3 beyond interdependence application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4238,
       "exportedPath": "jol/level-3/3.4/3.4.3-beyond-interdependence-application.html",
       "dependencies": []
     },
     "JOL/Level 3/3.4/3.4.3 beyond interdependence.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 777,
       "exportedPath": "jol/level-3/3.4/3.4.3-beyond-interdependence.html",
       "dependencies": []
     },
     "JOL/Level 3/3.4/3.4.3 beyond interdependence introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1878,
       "exportedPath": "jol/level-3/3.4/3.4.3-beyond-interdependence-introduction.html",
       "dependencies": []
     },
     "JOL/Level 3/3.4/3.4.3 beyond interdependence meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 8491,
       "exportedPath": "jol/level-3/3.4/3.4.3-beyond-interdependence-meditation.html",
       "dependencies": []
     },
     "JOL/Level 3/3.4/3.4.3 beyond interdependence summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1140,
       "exportedPath": "jol/level-3/3.4/3.4.3-beyond-interdependence-summary.html",
       "dependencies": []
     },
     "JOL/Level 3/3.4/3.4.3 beyond interdependence view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 9418,
       "exportedPath": "jol/level-3/3.4/3.4.3-beyond-interdependence-view.html",
       "dependencies": []
     },
     "JOL/Level 3/3.4/3.4.4 the ness of emptiness application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4757,
       "exportedPath": "jol/level-3/3.4/3.4.4-the-ness-of-emptiness-application.html",
       "dependencies": []
     },
     "JOL/Level 3/3.4/3.4.4 the ness of emptiness meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5397,
       "exportedPath": "jol/level-3/3.4/3.4.4-the-ness-of-emptiness-meditation.html",
       "dependencies": []
     },
     "JOL/Level 3/3.4/3.4.4 the ness of emptiness summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1217,
       "exportedPath": "jol/level-3/3.4/3.4.4-the-ness-of-emptiness-summary.html",
       "dependencies": []
     },
     "JOL/Level 3/3.4/3.4.4 the ness of emptiness.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 768,
       "exportedPath": "jol/level-3/3.4/3.4.4-the-ness-of-emptiness.html",
       "dependencies": []
     },
     "JOL/Level 3/3.4/3.4.4 the ness of emptiness view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7855,
       "exportedPath": "jol/level-3/3.4/3.4.4-the-ness-of-emptiness-view.html",
       "dependencies": []
     },
     "JOL/Level 3/3.4/3.4.4 the ness of emptiness introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2381,
       "exportedPath": "jol/level-3/3.4/3.4.4-the-ness-of-emptiness-introduction.html",
       "dependencies": []
     },
     "JOL/Level 3/3.5/3.5 the luminous self conclusion.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5517,
       "exportedPath": "jol/level-3/3.5/3.5-the-luminous-self-conclusion.html",
       "dependencies": []
     },
     "JOL/Level 3/3.5/3.5 the luminous self.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 746,
       "exportedPath": "jol/level-3/3.5/3.5-the-luminous-self.html",
       "dependencies": []
     },
     "JOL/Level 3/3.5/3.5 the luminous self welcome.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7261,
       "exportedPath": "jol/level-3/3.5/3.5-the-luminous-self-welcome.html",
       "dependencies": []
     },
     "JOL/Level 3/3.5/3.5.1 welcome to the luminous self application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4093,
       "exportedPath": "jol/level-3/3.5/3.5.1-welcome-to-the-luminous-self-application.html",
       "dependencies": []
     },
     "JOL/Level 3/3.5/3.5.1 welcome to the luminous self introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2527,
       "exportedPath": "jol/level-3/3.5/3.5.1-welcome-to-the-luminous-self-introduction.html",
       "dependencies": []
     },
     "JOL/Level 3/3.5/3.5.1 welcome to the luminous self meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 8998,
       "exportedPath": "jol/level-3/3.5/3.5.1-welcome-to-the-luminous-self-meditation.html",
       "dependencies": []
     },
     "JOL/Level 3/3.5/3.5.1 welcome to the luminous self summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1142,
       "exportedPath": "jol/level-3/3.5/3.5.1-welcome-to-the-luminous-self-summary.html",
       "dependencies": []
     },
     "JOL/Level 3/3.5/3.5.1 welcome to the luminous self view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7306,
       "exportedPath": "jol/level-3/3.5/3.5.1-welcome-to-the-luminous-self-view.html",
       "dependencies": []
     },
     "JOL/Level 3/3.5/3.5.1 welcome to the luminous self.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 843,
       "exportedPath": "jol/level-3/3.5/3.5.1-welcome-to-the-luminous-self.html",
       "dependencies": []
     },
     "JOL/Level 3/3.5/3.5.2 the luminous self application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4475,
       "exportedPath": "jol/level-3/3.5/3.5.2-the-luminous-self-application.html",
       "dependencies": []
     },
     "JOL/Level 3/3.5/3.5.2 the luminous self introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3325,
       "exportedPath": "jol/level-3/3.5/3.5.2-the-luminous-self-introduction.html",
       "dependencies": []
     },
     "JOL/Level 3/3.5/3.5.2 the luminous self meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7359,
       "exportedPath": "jol/level-3/3.5/3.5.2-the-luminous-self-meditation.html",
       "dependencies": []
     },
     "JOL/Level 3/3.5/3.5.2 the luminous self summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1079,
       "exportedPath": "jol/level-3/3.5/3.5.2-the-luminous-self-summary.html",
       "dependencies": []
     },
     "JOL/Level 3/3.5/3.5.2 the luminous self.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 722,
       "exportedPath": "jol/level-3/3.5/3.5.2-the-luminous-self.html",
       "dependencies": []
     },
     "JOL/Level 3/3.5/3.5.2 the luminous self view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5027,
       "exportedPath": "jol/level-3/3.5/3.5.2-the-luminous-self-view.html",
       "dependencies": []
     },
     "JOL/Level 3/3.5/3.5.3 emptiness of emotions application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4574,
       "exportedPath": "jol/level-3/3.5/3.5.3-emptiness-of-emotions-application.html",
       "dependencies": []
     },
     "JOL/Level 3/3.5/3.5.3 emptiness of emotions.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 766,
       "exportedPath": "jol/level-3/3.5/3.5.3-emptiness-of-emotions.html",
       "dependencies": []
     },
     "JOL/Level 3/3.5/3.5.3 emptiness of emotions introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2233,
       "exportedPath": "jol/level-3/3.5/3.5.3-emptiness-of-emotions-introduction.html",
       "dependencies": []
     },
     "JOL/Level 3/3.5/3.5.3 emptiness of emotions meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 8696,
       "exportedPath": "jol/level-3/3.5/3.5.3-emptiness-of-emotions-meditation.html",
       "dependencies": []
     },
     "JOL/Level 3/3.5/3.5.3 emptiness of emotions summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1144,
       "exportedPath": "jol/level-3/3.5/3.5.3-emptiness-of-emotions-summary.html",
       "dependencies": []
     },
     "JOL/Level 3/3.5/3.5.3 emptiness of emotions view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 9064,
       "exportedPath": "jol/level-3/3.5/3.5.3-emptiness-of-emotions-view.html",
       "dependencies": []
     },
     "JOL/Level 3/3.5/3.5.4 emptiness of suffering application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5086,
       "exportedPath": "jol/level-3/3.5/3.5.4-emptiness-of-suffering-application.html",
       "dependencies": []
     },
     "JOL/Level 3/3.5/3.5.4 emptiness of suffering.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 777,
       "exportedPath": "jol/level-3/3.5/3.5.4-emptiness-of-suffering.html",
       "dependencies": []
     },
     "JOL/Level 3/3.5/3.5.4 emptiness of suffering introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3695,
       "exportedPath": "jol/level-3/3.5/3.5.4-emptiness-of-suffering-introduction.html",
       "dependencies": []
     },
     "JOL/Level 3/3.5/3.5.4 emptiness of suffering meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7004,
       "exportedPath": "jol/level-3/3.5/3.5.4-emptiness-of-suffering-meditation.html",
       "dependencies": []
     },
     "JOL/Level 3/3.5/3.5.4 emptiness of suffering summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1149,
       "exportedPath": "jol/level-3/3.5/3.5.4-emptiness-of-suffering-summary.html",
       "dependencies": []
     },
     "JOL/Level 3/3.5/3.5.4 emptiness of suffering view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 8779,
       "exportedPath": "jol/level-3/3.5/3.5.4-emptiness-of-suffering-view.html",
       "dependencies": []
     },
     "JOL/Level 3/3.6/3.6 timeless awareness conclusion.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 8801,
       "exportedPath": "jol/level-3/3.6/3.6-timeless-awareness-conclusion.html",
       "dependencies": []
     },
     "JOL/Level 3/3.6/3.6 timeless awareness.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 781,
       "exportedPath": "jol/level-3/3.6/3.6-timeless-awareness.html",
       "dependencies": []
     },
     "JOL/Level 3/3.6/3.6 timeless awareness welcome.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 8918,
       "exportedPath": "jol/level-3/3.6/3.6-timeless-awareness-welcome.html",
       "dependencies": []
     },
     "JOL/Level 3/3.6/3.6.1 welcome to timeless awareness application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6616,
       "exportedPath": "jol/level-3/3.6/3.6.1-welcome-to-timeless-awareness-application.html",
       "dependencies": []
     },
     "JOL/Level 3/3.6/3.6.1 welcome to timeless awareness introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2853,
       "exportedPath": "jol/level-3/3.6/3.6.1-welcome-to-timeless-awareness-introduction.html",
       "dependencies": []
     },
     "JOL/Level 3/3.6/3.6.1 welcome to timeless awareness meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 10124,
       "exportedPath": "jol/level-3/3.6/3.6.1-welcome-to-timeless-awareness-meditation.html",
       "dependencies": []
     },
     "JOL/Level 3/3.6/3.6.1 welcome to timeless awareness summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1120,
       "exportedPath": "jol/level-3/3.6/3.6.1-welcome-to-timeless-awareness-summary.html",
       "dependencies": []
     },
     "JOL/Level 3/3.6/3.6.1 welcome to timeless awareness view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 9891,
       "exportedPath": "jol/level-3/3.6/3.6.1-welcome-to-timeless-awareness-view.html",
       "dependencies": []
     },
     "JOL/Level 3/3.6/3.6.1 welcome to timeless awareness.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 854,
       "exportedPath": "jol/level-3/3.6/3.6.1-welcome-to-timeless-awareness.html",
       "dependencies": []
     },
     "JOL/Level 3/3.6/3.6.2 beyond the sense of self application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6801,
       "exportedPath": "jol/level-3/3.6/3.6.2-beyond-the-sense-of-self-application.html",
       "dependencies": []
     },
     "JOL/Level 3/3.6/3.6.2 beyond the sense of self.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 799,
       "exportedPath": "jol/level-3/3.6/3.6.2-beyond-the-sense-of-self.html",
       "dependencies": []
     },
     "JOL/Level 3/3.6/3.6.2 beyond the sense of self introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2641,
       "exportedPath": "jol/level-3/3.6/3.6.2-beyond-the-sense-of-self-introduction.html",
       "dependencies": []
     },
     "JOL/Level 3/3.6/3.6.2 beyond the sense of self meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 8615,
       "exportedPath": "jol/level-3/3.6/3.6.2-beyond-the-sense-of-self-meditation.html",
       "dependencies": []
     },
     "JOL/Level 3/3.6/3.6.2 beyond the sense of self summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1188,
       "exportedPath": "jol/level-3/3.6/3.6.2-beyond-the-sense-of-self-summary.html",
       "dependencies": []
     },
     "JOL/Level 3/3.6/3.6.2 beyond the sense of self view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 12449,
       "exportedPath": "jol/level-3/3.6/3.6.2-beyond-the-sense-of-self-view.html",
       "dependencies": []
     },
     "JOL/Level 3/3.6/3.6.3 stillness movement and awareness application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5223,
       "exportedPath": "jol/level-3/3.6/3.6.3-stillness-movement-and-awareness-application.html",
       "dependencies": []
     },
     "JOL/Level 3/3.6/3.6.3 stillness movement and awareness introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1976,
       "exportedPath": "jol/level-3/3.6/3.6.3-stillness-movement-and-awareness-introduction.html",
       "dependencies": []
     },
     "JOL/Level 3/3.6/3.6.3 stillness movement and awareness meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6064,
       "exportedPath": "jol/level-3/3.6/3.6.3-stillness-movement-and-awareness-meditation.html",
       "dependencies": []
     },
     "JOL/Level 3/3.6/3.6.3 stillness movement and awareness.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 899,
       "exportedPath": "jol/level-3/3.6/3.6.3-stillness-movement-and-awareness.html",
       "dependencies": []
     },
     "JOL/Level 3/3.6/3.6.3 stillness movement and awareness summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1113,
       "exportedPath": "jol/level-3/3.6/3.6.3-stillness-movement-and-awareness-summary.html",
       "dependencies": []
     },
     "JOL/Level 3/3.6/3.6.3 stillness movement and awareness view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 10253,
       "exportedPath": "jol/level-3/3.6/3.6.3-stillness-movement-and-awareness-view.html",
       "dependencies": []
     },
     "JOL/Level 3/3.6/3.6.4 bringing it all together application.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5257,
       "exportedPath": "jol/level-3/3.6/3.6.4-bringing-it-all-together-application.html",
       "dependencies": []
     },
     "JOL/Level 3/3.6/3.6.4 bringing it all together.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 799,
       "exportedPath": "jol/level-3/3.6/3.6.4-bringing-it-all-together.html",
       "dependencies": []
     },
     "JOL/Level 3/3.6/3.6.4 bringing it all together introduction.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2451,
       "exportedPath": "jol/level-3/3.6/3.6.4-bringing-it-all-together-introduction.html",
       "dependencies": []
     },
     "JOL/Level 3/3.6/3.6.4 bringing it all together meditation.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7123,
       "exportedPath": "jol/level-3/3.6/3.6.4-bringing-it-all-together-meditation.html",
       "dependencies": []
     },
     "JOL/Level 3/3.6/3.6.4 bringing it all together summary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1404,
       "exportedPath": "jol/level-3/3.6/3.6.4-bringing-it-all-together-summary.html",
       "dependencies": []
     },
     "JOL/Level 3/3.6/3.6.4 bringing it all together view.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6893,
       "exportedPath": "jol/level-3/3.6/3.6.4-bringing-it-all-together-view.html",
       "dependencies": []
     },
     "JOL/Level 3/what to do next/what to do next.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 19430,
       "exportedPath": "jol/level-3/what-to-do-next/what-to-do-next.html",
       "dependencies": []
     },
     "JOL/Level 3/level 3 awakening wisdom.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 701,
       "exportedPath": "jol/level-3/level-3-awakening-wisdom.html",
       "dependencies": []
     },
     "JOL/JOL landing page.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 810,
       "exportedPath": "jol/jol-landing-page.html",
       "dependencies": []
     },
     "JOL/opening aspiration and closing dedication.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 774,
       "exportedPath": "jol/opening-aspiration-and-closing-dedication.html",
       "dependencies": []
     },
     "POL/English/Closing Chants - English.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 9420,
       "exportedPath": "pol/english/closing-chants-english.html",
       "dependencies": []
     },
     "POL/English/Mahamudra Aspiration Prayer - English.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 10044,
       "exportedPath": "pol/english/mahamudra-aspiration-prayer-english.html",
       "dependencies": []
     },
     "POL/English/Meal Prayer - English.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 348,
       "exportedPath": "pol/english/meal-prayer-english.html",
       "dependencies": []
     },
     "POL/English/Nectar of the Path - English.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 23225,
       "exportedPath": "pol/english/nectar-of-the-path-english.html",
       "dependencies": []
     },
     "POL/English/Opening Chants - English.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 12767,
       "exportedPath": "pol/english/opening-chants-english.html",
       "dependencies": []
     },
     "POL/English/Other Chants - English.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 92,
       "exportedPath": "pol/english/other-chants-english.html",
       "dependencies": []
     },
     "POL/English/The Heart Sutra - English.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 11821,
       "exportedPath": "pol/english/the-heart-sutra-english.html",
       "dependencies": []
     },
     "POL/Level 1/Instructions for Contemplating the Four Thoughts.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7616,
       "exportedPath": "pol/level-1/instructions-for-contemplating-the-four-thoughts.html",
       "dependencies": []
     },
     "POL/Level 1/Instructions for Meditating on Stillness Movement and Awareness.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3152,
       "exportedPath": "pol/level-1/instructions-for-meditating-on-stillness-movement-and-awareness.html",
       "dependencies": []
     },
     "POL/Level 1/Instructions on Pointing Out that All Phenomena Come from Mind.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 9728,
       "exportedPath": "pol/level-1/instructions-on-pointing-out-that-all-phenomena-come-from-mind.html",
       "dependencies": []
     },
     "POL/Level 1/Readings Level 1.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3681,
       "exportedPath": "pol/level-1/readings-level-1.html",
       "dependencies": []
     },
     "POL/Level 2/Instructions for Meditating on Mind is Emptiness.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2732,
       "exportedPath": "pol/level-2/instructions-for-meditating-on-mind-is-emptiness.html",
       "dependencies": []
     },
     "POL/Level 2/Instructions for Practicing Refuge.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4008,
       "exportedPath": "pol/level-2/instructions-for-practicing-refuge.html",
       "dependencies": []
     },
     "POL/Level 2/Readings Level 2.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 596,
       "exportedPath": "pol/level-2/readings-level-2.html",
       "dependencies": []
     },
     "POL/Closing Chants.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7169,
       "exportedPath": "pol/closing-chants.html",
       "dependencies": []
     },
     "POL/Mahamudra Aspiration Prayer.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 20779,
       "exportedPath": "pol/mahamudra-aspiration-prayer.html",
       "dependencies": []
     },
     "POL/Meal Prayer.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 759,
       "exportedPath": "pol/meal-prayer.html",
       "dependencies": []
     },
     "POL/Nectar of the Path.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 24069,
       "exportedPath": "pol/nectar-of-the-path.html",
       "dependencies": []
     },
     "POL/Opening Chants.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 10113,
       "exportedPath": "pol/opening-chants.html",
       "dependencies": []
     },
     "POL/Other Chants.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 72,
       "exportedPath": "pol/other-chants.html",
       "dependencies": []
     },
     "POL/Readings.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 274,
       "exportedPath": "pol/readings.html",
       "dependencies": []
     },
     "POL/The Heart Sutra.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 16448,
       "exportedPath": "pol/the-heart-sutra.html",
       "dependencies": []
     },
     "retreat course/common pitfalls in retreat.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4951,
       "exportedPath": "retreat-course/common-pitfalls-in-retreat.html",
       "dependencies": []
     },
     "retreat course/energy movement.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 9252,
       "exportedPath": "retreat-course/energy-movement.html",
       "dependencies": []
     },
     "retreat course/how to practice in retreat summary of key points.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4369,
       "exportedPath": "retreat-course/how-to-practice-in-retreat-summary-of-key-points.html",
       "dependencies": []
     },
     "retreat course/inspiration and discouragement.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5519,
       "exportedPath": "retreat-course/inspiration-and-discouragement.html",
       "dependencies": []
     },
     "retreat course/live sessions.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3376,
       "exportedPath": "retreat-course/live-sessions.html",
       "dependencies": []
     },
     "retreat course/module 1 additional short teachings by Mingyur Rinpoche.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3754,
       "exportedPath": "retreat-course/module-1-additional-short-teachings-by-mingyur-rinpoche.html",
       "dependencies": []
     },
     "retreat course/module 1 section 1 introduction and welcome to the retreat course.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2695,
       "exportedPath": "retreat-course/module-1-section-1-introduction-and-welcome-to-the-retreat-course.html",
       "dependencies": []
     },
     "retreat course/module 1 section 2 the importance of retreat.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2726,
       "exportedPath": "retreat-course/module-1-section-2-the-importance-of-retreat.html",
       "dependencies": []
     },
     "retreat course/module 1 section 3 the role of retreat in the Buddhist tradition.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2962,
       "exportedPath": "retreat-course/module-1-section-3-the-role-of-retreat-in-the-buddhist-tradition.html",
       "dependencies": []
     },
     "retreat course/module 1 section 4 the unique benefits of retreat.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2252,
       "exportedPath": "retreat-course/module-1-section-4-the-unique-benefits-of-retreat.html",
       "dependencies": []
     },
     "retreat course/module 1 webinars.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 760,
       "exportedPath": "retreat-course/module-1-webinars.html",
       "dependencies": []
     },
     "retreat course/module 1 the benefits of retreat.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1796,
       "exportedPath": "retreat-course/module-1-the-benefits-of-retreat.html",
       "dependencies": []
     },
     "retreat course/module 2 additional short teachings by Mingyur Rinpoche.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4823,
       "exportedPath": "retreat-course/module-2-additional-short-teachings-by-mingyur-rinpoche.html",
       "dependencies": []
     },
     "retreat course/module 2 section 1 tips from my teachers.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2750,
       "exportedPath": "retreat-course/module-2-section-1-tips-from-my-teachers.html",
       "dependencies": []
     },
     "retreat course/module 2 section 2 what to expect from retreat.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3041,
       "exportedPath": "retreat-course/module-2-section-2-what-to-expect-from-retreat.html",
       "dependencies": []
     },
     "retreat course/module 2 section 3 staying on track.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2877,
       "exportedPath": "retreat-course/module-2-section-3-staying-on-track.html",
       "dependencies": []
     },
     "retreat course/module 2 section 4 retreat is not an escape.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3141,
       "exportedPath": "retreat-course/module-2-section-4-retreat-is-not-an-escape.html",
       "dependencies": []
     },
     "retreat course/module 2 webinars.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 892,
       "exportedPath": "retreat-course/module-2-webinars.html",
       "dependencies": []
     },
     "retreat course/module 2, how to practice in retreat.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1796,
       "exportedPath": "retreat-course/module-2,-how-to-practice-in-retreat.html",
       "dependencies": []
     },
     "retreat course/module 2 how to practice in retreat.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1786,
       "exportedPath": "retreat-course/module-2-how-to-practice-in-retreat.html",
       "dependencies": []
     },
     "retreat course/module 3 additional short teachings by Mingyur Rinpoche.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3828,
       "exportedPath": "retreat-course/module-3-additional-short-teachings-by-mingyur-rinpoche.html",
       "dependencies": []
     },
     "retreat course/module 3 section 1 inspiration and discouragement.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2589,
       "exportedPath": "retreat-course/module-3-section-1-inspiration-and-discouragement.html",
       "dependencies": []
     },
     "retreat course/module 3 section 2 working with positive meditation experiences.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2800,
       "exportedPath": "retreat-course/module-3-section-2-working-with-positive-meditation-experiences.html",
       "dependencies": []
     },
     "retreat course/module 3 section 3 energy movement.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2917,
       "exportedPath": "retreat-course/module-3-section-3-energy-movement.html",
       "dependencies": []
     },
     "retreat course/module 3 section 4 common pitfalls in retreat.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1934,
       "exportedPath": "retreat-course/module-3-section-4-common-pitfalls-in-retreat.html",
       "dependencies": []
     },
     "retreat course/module 3 webinars.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 562,
       "exportedPath": "retreat-course/module-3-webinars.html",
       "dependencies": []
     },
     "retreat course/module 3 the challenges of retreat.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1778,
       "exportedPath": "retreat-course/module-3-the-challenges-of-retreat.html",
       "dependencies": []
     },
     "retreat course/my inspirations.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4953,
       "exportedPath": "retreat-course/my-inspirations.html",
       "dependencies": []
     },
     "retreat course/retreat course landing page.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2944,
       "exportedPath": "retreat-course/retreat-course-landing-page.html",
       "dependencies": []
     },
     "retreat course/retreat is not an escape.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5110,
       "exportedPath": "retreat-course/retreat-is-not-an-escape.html",
       "dependencies": []
     },
     "retreat course/retreat resources.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1499,
       "exportedPath": "retreat-course/retreat-resources.html",
       "dependencies": []
     },
     "retreat course/retreat schedules.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1136,
       "exportedPath": "retreat-course/retreat-schedules.html",
       "dependencies": []
     },
     "retreat course/setting up a shrine.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3534,
       "exportedPath": "retreat-course/setting-up-a-shrine.html",
       "dependencies": []
     },
     "retreat course/the benefits of retreat summary of key points.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3029,
       "exportedPath": "retreat-course/the-benefits-of-retreat-summary-of-key-points.html",
       "dependencies": []
     },
     "retreat course/the challenges of retreat summary of key points.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 4631,
       "exportedPath": "retreat-course/the-challenges-of-retreat-summary-of-key-points.html",
       "dependencies": []
     },
     "retreat course/the importance of retreat.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5572,
       "exportedPath": "retreat-course/the-importance-of-retreat.html",
       "dependencies": []
     },
     "retreat course/the meaning of the 8 offerings.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 14487,
       "exportedPath": "retreat-course/the-meaning-of-the-8-offerings.html",
       "dependencies": []
     },
     "retreat course/the role of retreat in the Buddhist tradition.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5892,
       "exportedPath": "retreat-course/the-role-of-retreat-in-the-buddhist-tradition.html",
       "dependencies": []
     },
     "retreat course/the unique benefits of retreat.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5074,
       "exportedPath": "retreat-course/the-unique-benefits-of-retreat.html",
       "dependencies": []
     },
     "retreat course/tips for structuring a retreat.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 2842,
       "exportedPath": "retreat-course/tips-for-structuring-a-retreat.html",
       "dependencies": []
     },
     "retreat course/understanding the shrine.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6343,
       "exportedPath": "retreat-course/understanding-the-shrine.html",
       "dependencies": []
     },
     "retreat course/what to expect from retreat.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3407,
       "exportedPath": "retreat-course/what-to-expect-from-retreat.html",
       "dependencies": []
     },
     "retreat course/working with positive meditation experiences.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 6279,
       "exportedPath": "retreat-course/working-with-positive-meditation-experiences.html",
       "dependencies": []
     },
     "Tibetan language course/reading Tibetan/subscribed letters/LA-TAK.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 159,
       "exportedPath": "tibetan-language-course/reading-tibetan/subscribed-letters/la-tak.html",
       "dependencies": []
     },
     "Tibetan language course/reading Tibetan/subscribed letters/RA-TAK.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 552,
       "exportedPath": "tibetan-language-course/reading-tibetan/subscribed-letters/ra-tak.html",
       "dependencies": []
     },
     "Tibetan language course/reading Tibetan/subscribed letters/WA-ZUR.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 76,
       "exportedPath": "tibetan-language-course/reading-tibetan/subscribed-letters/wa-zur.html",
       "dependencies": []
     },
     "Tibetan language course/reading Tibetan/subscribed letters/YA-TAK.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 331,
       "exportedPath": "tibetan-language-course/reading-tibetan/subscribed-letters/ya-tak.html",
       "dependencies": []
     },
     "Tibetan language course/reading Tibetan/superscripted letters/LAN-GO.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 174,
       "exportedPath": "tibetan-language-course/reading-tibetan/superscripted-letters/lan-go.html",
       "dependencies": []
     },
     "Tibetan language course/reading Tibetan/superscripted letters/RAN-GO.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 112,
       "exportedPath": "tibetan-language-course/reading-tibetan/superscripted-letters/ran-go.html",
       "dependencies": []
     },
     "Tibetan language course/reading Tibetan/superscripted letters/SAN-GO.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 112,
       "exportedPath": "tibetan-language-course/reading-tibetan/superscripted-letters/san-go.html",
       "dependencies": []
     },
     "Tibetan language course/reading Tibetan/Basic Pronunciation Tips.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 430,
       "exportedPath": "tibetan-language-course/reading-tibetan/basic-pronunciation-tips.html",
       "dependencies": []
     },
     "Tibetan language course/reading Tibetan/Distinct Letter Combinations.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 991,
       "exportedPath": "tibetan-language-course/reading-tibetan/distinct-letter-combinations.html",
       "dependencies": []
     },
     "Tibetan language course/reading Tibetan/Post-Suffixes.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 131,
       "exportedPath": "tibetan-language-course/reading-tibetan/post-suffixes.html",
       "dependencies": []
     },
     "Tibetan language course/reading Tibetan/Prefixes.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 451,
       "exportedPath": "tibetan-language-course/reading-tibetan/prefixes.html",
       "dependencies": []
     },
     "Tibetan language course/reading Tibetan/Suffixes.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 734,
       "exportedPath": "tibetan-language-course/reading-tibetan/suffixes.html",
       "dependencies": []
     },
     "Tibetan language course/reading Tibetan/The Four Tibetan Vowels.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 596,
       "exportedPath": "tibetan-language-course/reading-tibetan/the-four-tibetan-vowels.html",
       "dependencies": []
     },
     "Tibetan language course/reading Tibetan/Tibetan Alphabet.jpg": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 83845,
       "exportedPath": "tibetan-language-course/reading-tibetan/tibetan-alphabet.jpg",
       "dependencies": []
     },
     "Tibetan language course/Reading Tibetan.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1214,
       "exportedPath": "tibetan-language-course/reading-tibetan.html",
       "dependencies": []
     },
     "Tibetan language course/Tibetan Grammar.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 17,
       "exportedPath": "tibetan-language-course/tibetan-grammar.html",
       "dependencies": []
     },
+    "Tibetan language course/Tibetan Language Course.md": {
+      "modifiedTime": 1757635781478,
+      "sourceSize": 129,
+      "exportedPath": "tibetan-language-course/tibetan-language-course.html",
+      "dependencies": []
+    },
     "Tibetan language course/Tibetan Vocabulary.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1218,
       "exportedPath": "tibetan-language-course/tibetan-vocabulary.html",
       "dependencies": []
     },
     "landing page.md": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 10671,
       "exportedPath": "landing-page.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/293fd13dbca5a3e450ef.woff2": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 105924,
       "exportedPath": "lib/fonts/293fd13dbca5a3e450ef.woff2",
       "dependencies": []
     },
     "lib/fonts/085cb93e613ba3d40d2b.woff2": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 112184,
       "exportedPath": "lib/fonts/085cb93e613ba3d40d2b.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 195377,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/html/custom-head-content.html": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 337,
       "exportedPath": "lib/html/custom-head-content.html",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 165755,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 1596996,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 376,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 89,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1757635467094,
+      "modifiedTime": 1757635781478,
       "sourceSize": 703,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
